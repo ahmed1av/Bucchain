@@ -233,7 +233,7 @@ export default function Home() {
                 <div className="w-full h-full p-6 flex flex-col">
                   <div className="mt-12 mb-8">
                     <div className="text-2xl font-bold">Good morning</div>
-                    <div className="text-gray-500">Here's your supply summary</div>
+                    <div className="text-gray-500">Here&apos;s your supply summary</div>
                   </div>
                   <div className="space-y-4">
                     {[1, 2, 3].map((i) => (
