@@ -1,0 +1,13 @@
+Dockerfile
+Dockerfile.*
+docker-compose*
+*.md
+.gitignore
+node_modules/
+frontend/
+mobile/
+blockchain/
+ai/
+.git/
+.idea/
+.vscode/
