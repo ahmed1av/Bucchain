@@ -1,0 +1,20 @@
+# Core FastAPI dependencies
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Image processing
+numpy==2.2.1
+opencv-python-headless==4.10.0.84
+
+# HTTP client
+requests==2.32.3
+
+# Additional production dependencies
+pydantic==2.10.5
+pydantic-settings==2.7.1
+
+# Optional: For future ML model integration
+# torch==2.5.1
+# torchvision==0.20.1
+# ultralytics==8.3.61
