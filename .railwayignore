@@ -1,6 +1,3 @@
-Dockerfile
-Dockerfile.*
-docker-compose*
 *.md
 .gitignore
 node_modules/
@@ -11,3 +8,4 @@ ai/
 .git/
 .idea/
 .vscode/
+
