@@ -76,3 +76,8 @@ typechain-types/
 
 # OS
 Thumbs.db
+
+# Root node_modules
+node_modules/
+package.json
+package-lock.json
